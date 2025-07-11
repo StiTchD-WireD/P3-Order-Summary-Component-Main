@@ -52,13 +52,13 @@ Browser:
 
 ### What I learned
 
--getting more comfortable with mobile-first workflow
--using comments in the html file to plan the layout before creating css stylesheet.
--buttons
--flipping/mirroring an image
--flexbox seems to be better than grid for cards (I may just need more practice with grid).
--tested the difference between articles, sections and div. Div is more suitable for smaller projects.
--changing the cursor for :hover.
+- getting more comfortable with mobile-first workflow
+- using comments in the html file to plan the layout before creating css stylesheet.
+- buttons
+- flipping/mirroring an image
+- flexbox seems to be better than grid for cards (I may just need more practice with grid).
+- tested the difference between articles, sections and div. Div is more suitable for smaller projects.
+- changing the cursor for :hover.
 
 To see how you can add code snippets, see below:
 
@@ -75,6 +75,7 @@ To see how you can add code snippets, see below:
 ### Continued development
 
 I'd like to practice using article and section more. My next project will be creating a recipe page.
+- On reviewing feedback from front-end mentor, I will first do another card project with focus on using rem/em instead of pixels, and CSS min, max and clamp functions. 
 
 ### Useful resources
 
